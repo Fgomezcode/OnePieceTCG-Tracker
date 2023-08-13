@@ -1,0 +1,25 @@
+
+
+
+
+<div >
+  <button class="button is-dark" style="width:100%; margin-bottom: 1rem;" (click)=cardsToDisplay()>ApplyFilters</button>
+  <input class="input is-rounded" placeholder="Search For" (keyup)="setWord($event)" type="text">
+</div>
+
+<div id="main" class="container is-fluid">
+  <app-card *ngFor="let card of displayCards"
+      (click)=addCardToCollection(card)
+      [filters] = filters
+      [deck] ="card.deck"
+      [card_code] ="card.card_code"
+      [rarity] ="card.rarity"
+      [kind] ="card.kind"
+      [text] ="card.text"
+      [name] ="card.name"
+      [images] ="card.images"
+      [collected] ="card.collected"
+      ></app-card>  
+</div>
+
+

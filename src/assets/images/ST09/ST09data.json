@@ -1,0 +1,902 @@
+[
+    {
+        "deck": "ST09",
+        "card_code": "ST09-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[DON!! x1] [Opponent's Turn] If you have 2 or less Life cards, this Leader gains +1000 power.",
+        "name": "Yamato",
+        "images": "ST09-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-002",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Uzuki Tempura",
+        "images": "ST09-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Ulti",
+        "images": "ST09-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-004",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] If you have 2 or less Life cards, this Character cannot be K.O.'d in battle.",
+        "name": "Kaido",
+        "images": "ST09-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-005",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] This Character gains [Double Attack].(This card deals 2 damage.)[On K.O.] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+        "name": "Kouzuki Oden",
+        "images": "ST09-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Kouzuki Momonosuke",
+        "images": "ST09-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +4000 power during this battle.",
+        "name": "Shinobu",
+        "images": "ST09-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 yellow {Land of Wano} type Character card with a cost of 4 or less from your hand.",
+        "name": "Shimotsuki Ushimaru",
+        "images": "ST09-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Fugetsu Omusubi",
+        "images": "ST09-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-010",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[Once Per Turn] If this Character would be K.O.'d, you may trash 1 card from the top or bottom of your Life cards instead.",
+        "name": "Portgas.D.Ace",
+        "images": "ST09-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Luffy",
+        "images": "ST09-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-012",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +2000 power until the start of your next turn.",
+        "name": "Yamato",
+        "images": "ST09-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Yamato",
+        "images": "ST09-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] If you have 2 or less Life cards, give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+        "name": "Narikabura Arrow",
+        "images": "ST09-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of the owner's Life cards face-up.",
+        "name": "Thunder Bagua",
+        "images": "ST09-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[DON!! x1] [Opponent's Turn] If you have 2 or less Life cards, this Leader gains +1000 power.",
+        "name": "Yamato",
+        "images": "ST09-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-002",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Uzuki Tempura",
+        "images": "ST09-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Ulti",
+        "images": "ST09-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-004",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] If you have 2 or less Life cards, this Character cannot be K.O.'d in battle.",
+        "name": "Kaido",
+        "images": "ST09-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-005",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] This Character gains [Double Attack].(This card deals 2 damage.)[On K.O.] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+        "name": "Kouzuki Oden",
+        "images": "ST09-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Kouzuki Momonosuke",
+        "images": "ST09-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +4000 power during this battle.",
+        "name": "Shinobu",
+        "images": "ST09-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 yellow {Land of Wano} type Character card with a cost of 4 or less from your hand.",
+        "name": "Shimotsuki Ushimaru",
+        "images": "ST09-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Fugetsu Omusubi",
+        "images": "ST09-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-010",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[Once Per Turn] If this Character would be K.O.'d, you may trash 1 card from the top or bottom of your Life cards instead.",
+        "name": "Portgas.D.Ace",
+        "images": "ST09-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Luffy",
+        "images": "ST09-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-012",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +2000 power until the start of your next turn.",
+        "name": "Yamato",
+        "images": "ST09-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Yamato",
+        "images": "ST09-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] If you have 2 or less Life cards, give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+        "name": "Narikabura Arrow",
+        "images": "ST09-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of the owner's Life cards face-up.",
+        "name": "Thunder Bagua",
+        "images": "ST09-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[DON!! x1] [Opponent's Turn] If you have 2 or less Life cards, this Leader gains +1000 power.",
+        "name": "Yamato",
+        "images": "ST09-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-002",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Uzuki Tempura",
+        "images": "ST09-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Ulti",
+        "images": "ST09-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-004",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] If you have 2 or less Life cards, this Character cannot be K.O.'d in battle.",
+        "name": "Kaido",
+        "images": "ST09-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-005",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] This Character gains [Double Attack].(This card deals 2 damage.)[On K.O.] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+        "name": "Kouzuki Oden",
+        "images": "ST09-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Kouzuki Momonosuke",
+        "images": "ST09-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +4000 power during this battle.",
+        "name": "Shinobu",
+        "images": "ST09-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 yellow {Land of Wano} type Character card with a cost of 4 or less from your hand.",
+        "name": "Shimotsuki Ushimaru",
+        "images": "ST09-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Fugetsu Omusubi",
+        "images": "ST09-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-010",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[Once Per Turn] If this Character would be K.O.'d, you may trash 1 card from the top or bottom of your Life cards instead.",
+        "name": "Portgas.D.Ace",
+        "images": "ST09-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Luffy",
+        "images": "ST09-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-012",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +2000 power until the start of your next turn.",
+        "name": "Yamato",
+        "images": "ST09-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Yamato",
+        "images": "ST09-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] If you have 2 or less Life cards, give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+        "name": "Narikabura Arrow",
+        "images": "ST09-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of the owner's Life cards face-up.",
+        "name": "Thunder Bagua",
+        "images": "ST09-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[DON!! x1] [Opponent's Turn] If you have 2 or less Life cards, this Leader gains +1000 power.",
+        "name": "Yamato",
+        "images": "ST09-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-002",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Uzuki Tempura",
+        "images": "ST09-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Ulti",
+        "images": "ST09-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-004",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] If you have 2 or less Life cards, this Character cannot be K.O.'d in battle.",
+        "name": "Kaido",
+        "images": "ST09-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-005",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] This Character gains [Double Attack].(This card deals 2 damage.)[On K.O.] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+        "name": "Kouzuki Oden",
+        "images": "ST09-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Kouzuki Momonosuke",
+        "images": "ST09-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +4000 power during this battle.",
+        "name": "Shinobu",
+        "images": "ST09-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 yellow {Land of Wano} type Character card with a cost of 4 or less from your hand.",
+        "name": "Shimotsuki Ushimaru",
+        "images": "ST09-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Fugetsu Omusubi",
+        "images": "ST09-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-010",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[Once Per Turn] If this Character would be K.O.'d, you may trash 1 card from the top or bottom of your Life cards instead.",
+        "name": "Portgas.D.Ace",
+        "images": "ST09-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Luffy",
+        "images": "ST09-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-012",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +2000 power until the start of your next turn.",
+        "name": "Yamato",
+        "images": "ST09-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Yamato",
+        "images": "ST09-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] If you have 2 or less Life cards, give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+        "name": "Narikabura Arrow",
+        "images": "ST09-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of the owner's Life cards face-up.",
+        "name": "Thunder Bagua",
+        "images": "ST09-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[DON!! x1] [Opponent's Turn] If you have 2 or less Life cards, this Leader gains +1000 power.",
+        "name": "Yamato",
+        "images": "ST09-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-002",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Uzuki Tempura",
+        "images": "ST09-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Ulti",
+        "images": "ST09-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-004",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] If you have 2 or less Life cards, this Character cannot be K.O.'d in battle.",
+        "name": "Kaido",
+        "images": "ST09-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-005",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] This Character gains [Double Attack].(This card deals 2 damage.)[On K.O.] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+        "name": "Kouzuki Oden",
+        "images": "ST09-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Kouzuki Momonosuke",
+        "images": "ST09-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +4000 power during this battle.",
+        "name": "Shinobu",
+        "images": "ST09-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 yellow {Land of Wano} type Character card with a cost of 4 or less from your hand.",
+        "name": "Shimotsuki Ushimaru",
+        "images": "ST09-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Fugetsu Omusubi",
+        "images": "ST09-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-010",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[Once Per Turn] If this Character would be K.O.'d, you may trash 1 card from the top or bottom of your Life cards instead.",
+        "name": "Portgas.D.Ace",
+        "images": "ST09-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Luffy",
+        "images": "ST09-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-012",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +2000 power until the start of your next turn.",
+        "name": "Yamato",
+        "images": "ST09-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Yamato",
+        "images": "ST09-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] If you have 2 or less Life cards, give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+        "name": "Narikabura Arrow",
+        "images": "ST09-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of the owner's Life cards face-up.",
+        "name": "Thunder Bagua",
+        "images": "ST09-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[DON!! x1] [Opponent's Turn] If you have 2 or less Life cards, this Leader gains +1000 power.",
+        "name": "Yamato",
+        "images": "ST09-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-002",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Uzuki Tempura",
+        "images": "ST09-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Ulti",
+        "images": "ST09-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-004",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] If you have 2 or less Life cards, this Character cannot be K.O.'d in battle.",
+        "name": "Kaido",
+        "images": "ST09-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-005",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] This Character gains [Double Attack].(This card deals 2 damage.)[On K.O.] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+        "name": "Kouzuki Oden",
+        "images": "ST09-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Kouzuki Momonosuke",
+        "images": "ST09-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +4000 power during this battle.",
+        "name": "Shinobu",
+        "images": "ST09-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 yellow {Land of Wano} type Character card with a cost of 4 or less from your hand.",
+        "name": "Shimotsuki Ushimaru",
+        "images": "ST09-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Fugetsu Omusubi",
+        "images": "ST09-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-010",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[Once Per Turn] If this Character would be K.O.'d, you may trash 1 card from the top or bottom of your Life cards instead.",
+        "name": "Portgas.D.Ace",
+        "images": "ST09-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Luffy",
+        "images": "ST09-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-012",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +2000 power until the start of your next turn.",
+        "name": "Yamato",
+        "images": "ST09-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Yamato",
+        "images": "ST09-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] If you have 2 or less Life cards, give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+        "name": "Narikabura Arrow",
+        "images": "ST09-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST09",
+        "card_code": "ST09-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of the owner's Life cards face-up.",
+        "name": "Thunder Bagua",
+        "images": "ST09-015.png",
+        "collected": "false"
+    }
+]

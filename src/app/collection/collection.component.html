@@ -1,0 +1,24 @@
+
+<button class="button is-dark" style="width:100%"  (click)=getCollected()>ApplyFilters</button>
+<div style="text-align: center;">
+  <div class="title">Collection</div>
+  <button class="button is-info is-light"><a id="downloadAnchorElem" (click)=expFile()>Download Collection</a></button>
+</div>
+
+
+
+
+<div id="main" class="grid-container">
+  <app-collected-card *ngFor="let card of collection"  
+      (click)=addCardToCollection(card)
+      [filters] = filters
+      [deck] ="card.deck"
+      [card_code] ="card.card_code"
+      [rarity] ="card.rarity"
+      [kind] ="card.kind"
+      [text] ="card.text"
+      [name] ="card.name"
+      [images] ="card.images"
+      [collected] ="card.collected"
+      ></app-collected-card>  
+</div>

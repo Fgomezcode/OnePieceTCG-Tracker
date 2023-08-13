@@ -1,0 +1,902 @@
+[
+    {
+        "deck": "ST08",
+        "card_code": "ST08-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.",
+        "name": "Monkey.D.Luffy",
+        "images": "ST08-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-002",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "EffectThis Character cannot be K.O.'d in battle by Leaders.[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Uta",
+        "images": "ST08-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Gaimon",
+        "images": "ST08-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-004",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "name": "Koby",
+        "images": "ST08-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-005",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] You may trash 1 card from your hand: K.O. all Characters with a cost of 1 or less.",
+        "name": "Shanks",
+        "images": "ST08-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Shirahoshi",
+        "images": "ST08-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "name": "Nefeltari Vivi",
+        "images": "ST08-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Higuma",
+        "images": "ST08-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] If there is a Character with a cost of 0, draw 1 card.",
+        "name": "Makino",
+        "images": "ST08-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-010",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Garp",
+        "images": "ST08-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Luffy",
+        "images": "ST08-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-012",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Laboon",
+        "images": "ST08-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] At the end of a battle in which this Character battles your opponent's Character, you may K.O. the opponent’s Character you battled with. If you do, K.O. this Character.",
+        "name": "Mr.2.Bon.Kurei(Bentham)",
+        "images": "ST08-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] You may add 1 card from the top of your Life cards to your hand: Give up to 1 of your opponent's Characters −7 cost during this turn.",
+        "name": "Gum-Gum Bell",
+        "images": "ST08-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "name": "Gum-Gum Pistol",
+        "images": "ST08-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.",
+        "name": "Monkey.D.Luffy",
+        "images": "ST08-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-002",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "EffectThis Character cannot be K.O.'d in battle by Leaders.[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Uta",
+        "images": "ST08-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Gaimon",
+        "images": "ST08-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-004",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "name": "Koby",
+        "images": "ST08-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-005",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] You may trash 1 card from your hand: K.O. all Characters with a cost of 1 or less.",
+        "name": "Shanks",
+        "images": "ST08-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Shirahoshi",
+        "images": "ST08-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "name": "Nefeltari Vivi",
+        "images": "ST08-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Higuma",
+        "images": "ST08-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] If there is a Character with a cost of 0, draw 1 card.",
+        "name": "Makino",
+        "images": "ST08-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-010",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Garp",
+        "images": "ST08-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Luffy",
+        "images": "ST08-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-012",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Laboon",
+        "images": "ST08-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] At the end of a battle in which this Character battles your opponent's Character, you may K.O. the opponent’s Character you battled with. If you do, K.O. this Character.",
+        "name": "Mr.2.Bon.Kurei(Bentham)",
+        "images": "ST08-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] You may add 1 card from the top of your Life cards to your hand: Give up to 1 of your opponent's Characters −7 cost during this turn.",
+        "name": "Gum-Gum Bell",
+        "images": "ST08-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "name": "Gum-Gum Pistol",
+        "images": "ST08-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.",
+        "name": "Monkey.D.Luffy",
+        "images": "ST08-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-002",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "EffectThis Character cannot be K.O.'d in battle by Leaders.[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Uta",
+        "images": "ST08-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Gaimon",
+        "images": "ST08-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-004",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "name": "Koby",
+        "images": "ST08-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-005",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] You may trash 1 card from your hand: K.O. all Characters with a cost of 1 or less.",
+        "name": "Shanks",
+        "images": "ST08-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Shirahoshi",
+        "images": "ST08-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "name": "Nefeltari Vivi",
+        "images": "ST08-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Higuma",
+        "images": "ST08-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] If there is a Character with a cost of 0, draw 1 card.",
+        "name": "Makino",
+        "images": "ST08-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-010",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Garp",
+        "images": "ST08-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Luffy",
+        "images": "ST08-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-012",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Laboon",
+        "images": "ST08-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] At the end of a battle in which this Character battles your opponent's Character, you may K.O. the opponent’s Character you battled with. If you do, K.O. this Character.",
+        "name": "Mr.2.Bon.Kurei(Bentham)",
+        "images": "ST08-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] You may add 1 card from the top of your Life cards to your hand: Give up to 1 of your opponent's Characters −7 cost during this turn.",
+        "name": "Gum-Gum Bell",
+        "images": "ST08-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "name": "Gum-Gum Pistol",
+        "images": "ST08-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.",
+        "name": "Monkey.D.Luffy",
+        "images": "ST08-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-002",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "EffectThis Character cannot be K.O.'d in battle by Leaders.[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Uta",
+        "images": "ST08-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Gaimon",
+        "images": "ST08-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-004",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "name": "Koby",
+        "images": "ST08-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-005",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] You may trash 1 card from your hand: K.O. all Characters with a cost of 1 or less.",
+        "name": "Shanks",
+        "images": "ST08-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Shirahoshi",
+        "images": "ST08-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "name": "Nefeltari Vivi",
+        "images": "ST08-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Higuma",
+        "images": "ST08-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] If there is a Character with a cost of 0, draw 1 card.",
+        "name": "Makino",
+        "images": "ST08-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-010",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Garp",
+        "images": "ST08-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Luffy",
+        "images": "ST08-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-012",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Laboon",
+        "images": "ST08-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] At the end of a battle in which this Character battles your opponent's Character, you may K.O. the opponent’s Character you battled with. If you do, K.O. this Character.",
+        "name": "Mr.2.Bon.Kurei(Bentham)",
+        "images": "ST08-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] You may add 1 card from the top of your Life cards to your hand: Give up to 1 of your opponent's Characters −7 cost during this turn.",
+        "name": "Gum-Gum Bell",
+        "images": "ST08-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "name": "Gum-Gum Pistol",
+        "images": "ST08-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.",
+        "name": "Monkey.D.Luffy",
+        "images": "ST08-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-002",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "EffectThis Character cannot be K.O.'d in battle by Leaders.[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Uta",
+        "images": "ST08-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Gaimon",
+        "images": "ST08-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-004",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "name": "Koby",
+        "images": "ST08-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-005",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] You may trash 1 card from your hand: K.O. all Characters with a cost of 1 or less.",
+        "name": "Shanks",
+        "images": "ST08-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Shirahoshi",
+        "images": "ST08-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "name": "Nefeltari Vivi",
+        "images": "ST08-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Higuma",
+        "images": "ST08-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] If there is a Character with a cost of 0, draw 1 card.",
+        "name": "Makino",
+        "images": "ST08-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-010",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Garp",
+        "images": "ST08-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Luffy",
+        "images": "ST08-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-012",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Laboon",
+        "images": "ST08-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] At the end of a battle in which this Character battles your opponent's Character, you may K.O. the opponent’s Character you battled with. If you do, K.O. this Character.",
+        "name": "Mr.2.Bon.Kurei(Bentham)",
+        "images": "ST08-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] You may add 1 card from the top of your Life cards to your hand: Give up to 1 of your opponent's Characters −7 cost during this turn.",
+        "name": "Gum-Gum Bell",
+        "images": "ST08-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "name": "Gum-Gum Pistol",
+        "images": "ST08-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.",
+        "name": "Monkey.D.Luffy",
+        "images": "ST08-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-002",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "EffectThis Character cannot be K.O.'d in battle by Leaders.[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Uta",
+        "images": "ST08-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Gaimon",
+        "images": "ST08-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-004",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "name": "Koby",
+        "images": "ST08-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-005",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] You may trash 1 card from your hand: K.O. all Characters with a cost of 1 or less.",
+        "name": "Shanks",
+        "images": "ST08-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Shirahoshi",
+        "images": "ST08-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "name": "Nefeltari Vivi",
+        "images": "ST08-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Higuma",
+        "images": "ST08-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] If there is a Character with a cost of 0, draw 1 card.",
+        "name": "Makino",
+        "images": "ST08-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-010",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Garp",
+        "images": "ST08-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Monkey.D.Luffy",
+        "images": "ST08-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-012",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Laboon",
+        "images": "ST08-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[DON!! x1] At the end of a battle in which this Character battles your opponent's Character, you may K.O. the opponent’s Character you battled with. If you do, K.O. this Character.",
+        "name": "Mr.2.Bon.Kurei(Bentham)",
+        "images": "ST08-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] You may add 1 card from the top of your Life cards to your hand: Give up to 1 of your opponent's Characters −7 cost during this turn.",
+        "name": "Gum-Gum Bell",
+        "images": "ST08-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST08",
+        "card_code": "ST08-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "name": "Gum-Gum Pistol",
+        "images": "ST08-015.png",
+        "collected": "false"
+    }
+]

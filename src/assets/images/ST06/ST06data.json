@@ -1,0 +1,1022 @@
+[
+    {
+        "deck": "ST06",
+        "card_code": "ST06-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "name": "Sakazuki",
+        "images": "ST06-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-002",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "name": "Koby",
+        "images": "ST06-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Jango",
+        "images": "ST06-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-004",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "EffectThis Character cannot be K.O.'d by effects.[DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack].(This card deals 2 damage.)",
+        "name": "Smoker",
+        "images": "ST06-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-005",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Sengoku",
+        "images": "ST06-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Tashigi",
+        "images": "ST06-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "name": "Tsuru",
+        "images": "ST06-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Hina",
+        "images": "ST06-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Fullbody",
+        "images": "ST06-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-010",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+        "name": "Helmeppo",
+        "images": "ST06-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Momonga",
+        "images": "ST06-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-012",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may trash 1 card from your hand and rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "name": "Monkey.D.Garp",
+        "images": "ST06-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "T-Bone",
+        "images": "ST06-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
+        "name": "Shockwave",
+        "images": "ST06-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] Draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Great Eruption",
+        "images": "ST06-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-016",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+        "name": "White Out",
+        "images": "ST06-016.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-017",
+        "rarity": "C",
+        "kind": "STAGE",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −1 cost during this turn.[Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −1 cost during this turn.",
+        "name": "Navy HQ",
+        "images": "ST06-017.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "name": "Sakazuki",
+        "images": "ST06-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-002",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "name": "Koby",
+        "images": "ST06-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Jango",
+        "images": "ST06-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-004",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "EffectThis Character cannot be K.O.'d by effects.[DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack].(This card deals 2 damage.)",
+        "name": "Smoker",
+        "images": "ST06-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-005",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Sengoku",
+        "images": "ST06-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Tashigi",
+        "images": "ST06-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "name": "Tsuru",
+        "images": "ST06-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Hina",
+        "images": "ST06-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Fullbody",
+        "images": "ST06-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-010",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+        "name": "Helmeppo",
+        "images": "ST06-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Momonga",
+        "images": "ST06-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-012",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may trash 1 card from your hand and rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "name": "Monkey.D.Garp",
+        "images": "ST06-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "T-Bone",
+        "images": "ST06-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
+        "name": "Shockwave",
+        "images": "ST06-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] Draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Great Eruption",
+        "images": "ST06-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-016",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+        "name": "White Out",
+        "images": "ST06-016.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-017",
+        "rarity": "C",
+        "kind": "STAGE",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −1 cost during this turn.[Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −1 cost during this turn.",
+        "name": "Navy HQ",
+        "images": "ST06-017.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "name": "Sakazuki",
+        "images": "ST06-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-002",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "name": "Koby",
+        "images": "ST06-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Jango",
+        "images": "ST06-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-004",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "EffectThis Character cannot be K.O.'d by effects.[DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack].(This card deals 2 damage.)",
+        "name": "Smoker",
+        "images": "ST06-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-005",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Sengoku",
+        "images": "ST06-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Tashigi",
+        "images": "ST06-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "name": "Tsuru",
+        "images": "ST06-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Hina",
+        "images": "ST06-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Fullbody",
+        "images": "ST06-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-010",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+        "name": "Helmeppo",
+        "images": "ST06-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Momonga",
+        "images": "ST06-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-012",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may trash 1 card from your hand and rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "name": "Monkey.D.Garp",
+        "images": "ST06-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "T-Bone",
+        "images": "ST06-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
+        "name": "Shockwave",
+        "images": "ST06-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] Draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Great Eruption",
+        "images": "ST06-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-016",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+        "name": "White Out",
+        "images": "ST06-016.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-017",
+        "rarity": "C",
+        "kind": "STAGE",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −1 cost during this turn.[Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −1 cost during this turn.",
+        "name": "Navy HQ",
+        "images": "ST06-017.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "name": "Sakazuki",
+        "images": "ST06-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-002",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "name": "Koby",
+        "images": "ST06-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Jango",
+        "images": "ST06-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-004",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "EffectThis Character cannot be K.O.'d by effects.[DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack].(This card deals 2 damage.)",
+        "name": "Smoker",
+        "images": "ST06-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-005",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Sengoku",
+        "images": "ST06-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Tashigi",
+        "images": "ST06-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "name": "Tsuru",
+        "images": "ST06-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Hina",
+        "images": "ST06-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Fullbody",
+        "images": "ST06-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-010",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+        "name": "Helmeppo",
+        "images": "ST06-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Momonga",
+        "images": "ST06-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-012",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may trash 1 card from your hand and rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "name": "Monkey.D.Garp",
+        "images": "ST06-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "T-Bone",
+        "images": "ST06-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
+        "name": "Shockwave",
+        "images": "ST06-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] Draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Great Eruption",
+        "images": "ST06-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-016",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+        "name": "White Out",
+        "images": "ST06-016.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-017",
+        "rarity": "C",
+        "kind": "STAGE",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −1 cost during this turn.[Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −1 cost during this turn.",
+        "name": "Navy HQ",
+        "images": "ST06-017.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "name": "Sakazuki",
+        "images": "ST06-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-002",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "name": "Koby",
+        "images": "ST06-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Jango",
+        "images": "ST06-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-004",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "EffectThis Character cannot be K.O.'d by effects.[DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack].(This card deals 2 damage.)",
+        "name": "Smoker",
+        "images": "ST06-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-005",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Sengoku",
+        "images": "ST06-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Tashigi",
+        "images": "ST06-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "name": "Tsuru",
+        "images": "ST06-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Hina",
+        "images": "ST06-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Fullbody",
+        "images": "ST06-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-010",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+        "name": "Helmeppo",
+        "images": "ST06-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Momonga",
+        "images": "ST06-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-012",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may trash 1 card from your hand and rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "name": "Monkey.D.Garp",
+        "images": "ST06-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "T-Bone",
+        "images": "ST06-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
+        "name": "Shockwave",
+        "images": "ST06-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] Draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Great Eruption",
+        "images": "ST06-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-016",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+        "name": "White Out",
+        "images": "ST06-016.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-017",
+        "rarity": "C",
+        "kind": "STAGE",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −1 cost during this turn.[Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −1 cost during this turn.",
+        "name": "Navy HQ",
+        "images": "ST06-017.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-001",
+        "rarity": "L",
+        "kind": "LEADER",
+        "text": "Effect[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "name": "Sakazuki",
+        "images": "ST06-001.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-002",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "name": "Koby",
+        "images": "ST06-002.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-003",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Jango",
+        "images": "ST06-003.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-004",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "EffectThis Character cannot be K.O.'d by effects.[DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack].(This card deals 2 damage.)",
+        "name": "Smoker",
+        "images": "ST06-004.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-005",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Sengoku",
+        "images": "ST06-005.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-006",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Tashigi",
+        "images": "ST06-006.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-007",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "name": "Tsuru",
+        "images": "ST06-007.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-008",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "name": "Hina",
+        "images": "ST06-008.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-009",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Fullbody",
+        "images": "ST06-009.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-010",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+        "name": "Helmeppo",
+        "images": "ST06-010.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-011",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "Momonga",
+        "images": "ST06-011.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-012",
+        "rarity": "SR",
+        "kind": "CHARACTER",
+        "text": "Effect[Activate: Main] You may trash 1 card from your hand and rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "name": "Monkey.D.Garp",
+        "images": "ST06-012.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-013",
+        "rarity": "C",
+        "kind": "CHARACTER",
+        "text": "Effect-",
+        "name": "T-Bone",
+        "images": "ST06-013.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-014",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
+        "name": "Shockwave",
+        "images": "ST06-014.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-015",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Main] Draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "name": "Great Eruption",
+        "images": "ST06-015.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-016",
+        "rarity": "C",
+        "kind": "EVENT",
+        "text": "Effect[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+        "name": "White Out",
+        "images": "ST06-016.png",
+        "collected": "false"
+    },
+    {
+        "deck": "ST06",
+        "card_code": "ST06-017",
+        "rarity": "C",
+        "kind": "STAGE",
+        "text": "Effect[On Play] Give up to 1 of your opponent's Characters −1 cost during this turn.[Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −1 cost during this turn.",
+        "name": "Navy HQ",
+        "images": "ST06-017.png",
+        "collected": "false"
+    }
+]
